@@ -38,11 +38,11 @@ A group research project comparing RF-DETR and YOLOv12 on a breast cancer-relate
 - Paper or code: [Add link]
 
 🛠️ Areas I’m Exploring
-Web application development
-Machine learning and NLP
-Computer vision
-AI application integration
-Software testing and quality assurance
+- Web application development
+- Machine learning and NLP
+- Computer vision
+- AI application integration
+- Software testing and quality assurance
 
 📫 Connect
 GitHub: [DarthJC1](https://github.com/DarthJC1/)
